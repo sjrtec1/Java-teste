@@ -3,7 +3,9 @@ package java_teste;
 import java.util.Scanner;
 
 /**
- * Teste
+ * Essa classe foi criada para realização de teste 
+ * utilizando GitHub
+ * 
  */
 public class Teste {
 
